@@ -1,0 +1,146 @@
+$ git log -p chorus.txt
+commit 8ce96512f7bb23ab8071473771cb1fdccf11e1a9 (HEAD -> master)
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:27:23 2026 +0100
+
+    chorus optimization
+
+diff --git a/chorus.txt b/chorus.txt
+new file mode 100644
+index 0000000..85534e7
+--- /dev/null
++++ b/chorus.txt
+@@ -0,0 +1,9 @@
++[Chorus]
++'Cause I don't wanna lose you now
++I'm lookin' right at the other half of me
++The vacancy that sat in my heart
++Is a space that now you hold
++Show me how to fight for now
++And I'll tell you, baby, it was easy
++Comin' back here to you once I figured it out
++You were right here all along
+\ No newline at end of file
+
+
+commit 8ce96512f7bb23ab8071473771cb1fdccf11e1a9 (HEAD -> master)
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:27:23 2026 +0100
+
+    chorus optimization
+
+commit aaf70b4d53cefdfd95c280be657cba4b292b38c8
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:21:36 2026 +0100
+
+    Revert "delete line"
+    
+    This reverts commit 7617d97c9331993c97f0bc133a1abc72f9b053c8.
+
+commit 7617d97c9331993c97f0bc133a1abc72f9b053c8
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:17:02 2026 +0100
+
+    delete line
+
+commit 6bf6fdd20de9a94faa4ad440702a7c8ed1d4dc0a
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:13:48 2026 +0100
+
+    b3
+
+commit 8c681b0e74e4f59bb3b58203d56d7d376d049365
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:13:07 2026 +0100
+
+    v4
+
+commit 783a7af2eef53f5871f62154f206d914cee86fe4
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:12:07 2026 +0100
+
+    b2
+
+commit aabd308eda80e279f0d4b529275dc9a69d371e16
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:08:19 2026 +0100
+
+    bb1
+
+commit a721cf05290aaa786f837e0fad3e4d86ca2379b6
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:07:24 2026 +0100
+
+    pc3
+
+commit a56a9bb3bb0a974be6cba112a17578f46b64c559
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:06:36 2026 +0100
+
+    r3
+
+commit 8600b1506bef419b399cb3c083ba1f18ea5d1d9a
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:02:43 2026 +0100
+
+    c3
+
+commit b56231511f13ebb7d1c79f97586d47b527aa9b40
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:01:48 2026 +0100
+
+    b1
+
+commit 37e43f04fe71bff6743a3bf7c1dddd6f8259babb
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Thu Jul 16 00:00:22 2026 +0100
+
+    r2
+
+commit fbc44963b7f6f694f4d07f8d2e20b6fa08f42f69
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:59:26 2026 +0100
+
+    c2
+
+commit e1a4f451fd7a097651e942a6c32745e9c70a87b3
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:58:19 2026 +0100
+
+    pc2
+
+commit 91bc059c41a2e186dab8e6db4ad1873f9de0ad7d
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:56:34 2026 +0100
+
+    v2
+
+commit fd93608588db270de1d2bebe45bb8218fcf23d40
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:55:05 2026 +0100
+
+    r1
+
+commit 2745da09838610157c0f906a08d87cc7c6139ca1
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:53:53 2026 +0100
+
+    c1
+
+commit 1ebd45f01fb281b6178d30fdec4ff99d5fc3fd99
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:50:06 2026 +0100
+
+    pc1
+
+commit e530621276097578c15a5177a12228767ac0ad68
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:43:47 2026 +0100
+
+    v1
+
+commit 0526c48cbcbf5d842eb1b86fa1a2169162078430
+Author: Nair N <nogueiranair1@gmail.com>
+Date:   Wed Jul 15 23:28:00 2026 +0100
+
+    initial commit
